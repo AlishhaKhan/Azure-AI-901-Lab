@@ -1,4 +1,4 @@
-# 🚀 Microsoft Azure AI Fundamentals (AI-901) - Complete Study & Lab Guide
+# Microsoft Azure AI Fundamentals (AI-901) - Complete Study & Lab Guide
 
 Welcome to the **Azure-AI-901-Lab** repository! This repository serves as a comprehensive, end-to-end learning resource, lab documentation, and practice guide for preparing and mastering the **Microsoft Azure AI Fundamentals (AI-901)** certification exam.
 
@@ -48,6 +48,6 @@ It is designed to provide structured notes, verified MCQ practice assessments, a
 - **Hands-On Lab Insights:** Practice workflows covering Generative AI, RAG, and AI Agents.
 
 ---
-
+*Maintained by Alisha Khan*
 ---
 *If you find this repository helpful for your AI-901 prep, feel free to drop a ⭐️!*
